@@ -9,6 +9,7 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.pranavkrishna.AttendanceTracker"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,6 +19,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
+      "package": "com.pranavkrishna.AttendanceTracker"
     },
     "web": {
       "output": "static",
